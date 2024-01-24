@@ -1,0 +1,46 @@
+redis-fill.exe -h Verifyperformance-P1-EUS2E-0105.redis.cache.windows.net -a Rh9OhwhMFqQtYtwhgZ909kWukQZsC9g80AzCaHumFds= -m 1
+
+redis-fill.exe -h Verifyperformance-P2-EUS2E-0105.redis.cache.windows.net -a GoBaEZeFI9aPGYEP9lk36rWc4TvV3U0kTAzCaFxN9jg= -m 1
+
+redis-fill.exe -h Verifyperformance-P3-EUS2E-0105.redis.cache.windows.net -a II9z905Cf7Qk1tJL97tJTqpoC6G0RZbzhAzCaFdQe4k= -m 1
+
+redis-fill.exe -h Verifyperformance-P4-EUS2E-0105.redis.cache.windows.net -a 4DE7MuRUzdb7vsulWjxVilT1f9HbTsAiiAzCaJsQYV0= -m 1
+
+redis-fill.exe -h Verifyperformance-P5-EUS2E-0105.redis.cache.windows.net -a 0nxRkgCeYDAnGL8VnAyUPikrxvAg6sKqhAzCaOnlqug= -m 1
+
+
+redis-fill.exe -h Verifyperformance-C0-EUS2E-Standard-0105.redis.cache.windows.net -a qo2txNISqegVVcRj9F0aSdpR9hkVRahVDAzCaN7UPf4= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C1-EUS2E-Standard-0105.redis.cache.windows.net -a DQj1uZvjN6r7z4LiLTUVxN6lYoI6dRULRAzCaFcnMUE= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C2-EUS2E-Standard-0105.redis.cache.windows.net -a x9QIDp3kOgNSgkm4fzaU85b6iqGUEPXl5AzCaNBlIGo= -m 0.5  
+
+redis-fill.exe -h Verifyperformance-C3-EUS2E-Standard-0105.redis.cache.windows.net -a y5hTBBWqfn1vmPycPnxJYBojJBEEEQETJAzCaIwCDCo= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C4-EUS2E-Standard-0105.redis.cache.windows.net -a C4HVTDEhPyoL92t2UKrW75mFMfLtYZYcLAzCaEXBxlw= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C5-EUS2E-Standard-0105.redis.cache.windows.net -a XEybB6HRRZancTjRfkO53MT7cOjKH40YPAzCaHwgm9U= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C6-EUS2E-Standard-0105.redis.cache.windows.net -a 3p57IZ3GXTGw9pypw6T3Go87PV1LDZ29fAzCaMQ2TaU= -m 0.5
+
+
+
+redis-fill.exe -h Verifyperformance-C0-EUS2E-Basic-0105.redis.cache.windows.net -a mEDphHBeGvXCqqDNu5ovV0VtdSRfchnChAzCaJbeBx0= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C1-EUS2E-Basic-0105.redis.cache.windows.net -a XjLEUOJn1OH3nlZcXRe94MbVh8RMziZ0fAzCaMPlilE= -m 0.5 
+
+redis-fill.exe -h Verifyperformance-C2-EUS2E-Basic-0105.redis.cache.windows.net -a hiqeR3oihjPHndH4nxVkLVGh67USrjyXkAzCaE7vSMA= -m 0.5  
+
+redis-fill.exe -h Verifyperformance-C3-EUS2E-Basic-0105.redis.cache.windows.net -a uZUR3bfBtmM19uybWFwgyMJRLIugGt8h8AzCaNoAOP0= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C4-EUS2E-Basic-0105.redis.cache.windows.net -a 3kjoJy7esNB8rVjJjqAZqYy2h88drigM1AzCaEuR3Aw= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C5-EUS2E-Basic-0105.redis.cache.windows.net -a cAQwKfNAgba2MCnesWsu8hNVJQeBoBFZbAzCaIaD9sI= -m 0.5
+
+redis-fill.exe -h Verifyperformance-C6-EUS2E-Basic-0105.redis.cache.windows.net -a MrKxRHi5yyQEw7AkxgCsjUWOdBdLYbHkTAzCaHAyzFE= -m 0.5  
+
+
+
+
+
+

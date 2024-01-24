@@ -1,0 +1,424 @@
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe.config
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Statistics_data.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\EPPlus.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\EPPlus.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Auto test\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+D:\Auto test\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+D:\Auto test\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+D:\Auto test\Statistics_data\Statistics_data\obj\Debug\Statistics_data.exe
+D:\Auto test\Statistics_data\Statistics_data\obj\Debug\Statistics_data.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Enums.NET.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Buffers.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Memory.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Enums.NET.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\Enums.NET.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Buffers.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Memory.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+D:\Auto test\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe.config
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Buffers.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Memory.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Buffers.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Memory.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.exe
+C:\Users\v-junruma\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe.config
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.exe
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Statistics_data.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Buffers.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Memory.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Enums.NET.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\EPPlus.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelDataReader.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\MathNet.Numerics.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.Core.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OOXML.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Buffers.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Memory.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.exe
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\obj\Debug\Statistics_data.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ClosedXML.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\CsvHelper.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\CsvHelper.Excel.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\DocumentFormat.OpenXml.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelNumberFormat.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ClosedXML.pdb
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ClosedXML.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\CsvHelper.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\DocumentFormat.OpenXml.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\ExcelNumberFormat.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\test\Performance Benchmark Tool\Performance_operation\Statistics_data\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe.config
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.Excel.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.exe
+C:\Users\SSA-User\Desktop\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe.config
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.Excel.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.exe
+D:\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe.config
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.exe
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Statistics_data.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.Excel.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.Interfaces.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ClosedXML.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\CsvHelper.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Enums.NET.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\EPPlus.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelDataReader.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ExcelNumberFormat.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\MathNet.Numerics.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.Core.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OOXML.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.Fonts.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\SixLabors.ImageSharp.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Buffers.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Memory.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Numerics.Vectors.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.AccessControl.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Security.Principal.Windows.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.AssemblyReference.cache
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CoreCompileInputs.cache
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.csproj.CopyComplete
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.exe
+D:\Tests\Benchmark\benchmark_txt\Performance Benchmark Tool\Performance_operation\Statistics_data1\Statistics_data\obj\Debug\Statistics_data.pdb

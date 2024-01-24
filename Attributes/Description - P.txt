@@ -1,0 +1,28 @@
+P1-P5
+get
+
+
+Verifyperformance-P1-EUS2E-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:500; P1; 01-05; 01-
+
+Verifyperformance-P2-EUS2E-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:500; P2; 01-05; 01-
+
+Verifyperformance-P3-EUS2E-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:500; P3; 01-05; 01-
+
+Verifyperformance-P4-EUS2E-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:500; P4; 01-05; 01-
+
+Verifyperformance-P5-EUS2E-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:500; P5; 01-05; 01-
+
+
+
+get
+
+Verifyperformance-P1-EUS2E-1107.redis.cache.windows.net:6380; SSL; GET; Clients:500; P1; 11-07; 02-
+
+Verifyperformance-P2-EUS2E-1107.redis.cache.windows.net:6380; SSL; GET; Clients:500; P2; 11-07; 02-
+
+Verifyperformance-P3-EUS2E-1107.redis.cache.windows.net:6380; SSL; GET; Clients:500; P3; 11-07; 02-
+
+Verifyperformance-P4-EUS2E-1107.redis.cache.windows.net:6380; SSL; GET; Clients:500; P4; 11-07; 02-
+
+Verifyperformance-P5-EUS2E-1107.redis.cache.windows.net:6380; SSL; GET; Clients:500; P5; 11-07; 02-
+

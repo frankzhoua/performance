@@ -1,0 +1,70 @@
+Stand
+get
+
+Verifyperformance-C0-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C0; 01-05; 01-
+
+Verifyperformance-C1-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C1; 01-05; 01-
+
+Verifyperformance-C2-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C2; 01-05; 01-
+
+Verifyperformance-C3-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C3; 01-05; 01-
+
+Verifyperformance-C4-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C4; 01-05; 01-
+
+Verifyperformance-C5-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C5; 01-05; 01-
+
+Verifyperformance-C6-EUS2E-Standard-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C6; 01-05; 01-
+
+
+get
+
+Verifyperformance-C0-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C0; 11-08; 02-
+
+Verifyperformance-C1-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C1; 11-08; 02-
+
+Verifyperformance-C2-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C2; 11-08; 02-
+
+Verifyperformance-C3-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C3; 11-08; 02-
+
+Verifyperformance-C4-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C4; 11-08; 02-
+
+Verifyperformance-C5-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C5; 11-08; 02-
+
+Verifyperformance-C6-EUS2E-Standard-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C6; 11-08; 02-
+
+
+Basic
+
+
+get
+
+Verifyperformance-C0-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C0; 01-05; 01-
+
+Verifyperformance-C1-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C1; 01-05; 01-
+
+Verifyperformance-C2-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C2; 01-05; 01-
+
+Verifyperformance-C3-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C3; 01-05; 01-
+
+Verifyperformance-C4-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C4; 01-05; 01-
+
+Verifyperformance-C5-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C5; 01-05; 01-
+
+Verifyperformance-C6-EUS2E-Basic-0105.redis.cache.windows.net:6379; Non-SSL; GET; Clients:100; C6; 01-05; 01-
+
+
+get
+
+Verifyperformance-C0-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C0; 11-08; 02-
+
+Verifyperformance-C1-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C1; 11-08; 02-
+
+Verifyperformance-C2-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C2; 11-08; 02-
+
+Verifyperformance-C3-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C3; 11-08; 02-
+
+Verifyperformance-C4-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C4; 11-08; 02-
+
+Verifyperformance-C5-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C5; 11-08; 02-
+
+Verifyperformance-C6-EUS2E-Basic-1107.redis.cache.windows.net:6380; SSL; GET; Clients:100; C6; 11-08; 02-

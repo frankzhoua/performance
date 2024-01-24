@@ -1,0 +1,15 @@
+Verifyperformance-C0-EUS2E-Basic
+Verifyperformance-C1-EUS2E-Basic
+Verifyperformance-C2-EUS2E-Basic
+Verifyperformance-C3-EUS2E-Basic
+Verifyperformance-C4-EUS2E-Basic
+Verifyperformance-C5-EUS2E-Basic
+Verifyperformance-C6-EUS2E-Basic
+
+Verifyperformance-C0-EUS2E-Standard
+Verifyperformance-C1-EUS2E-Standard
+Verifyperformance-C2-EUS2E-Standard
+Verifyperformance-C3-EUS2E-Standard
+Verifyperformance-C4-EUS2E-Standard
+Verifyperformance-C5-EUS2E-Standard
+Verifyperformance-C6-EUS2E-Standard
