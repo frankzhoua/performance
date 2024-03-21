@@ -83,7 +83,7 @@ def C_operate(name,Primary,description):
     #wd.find_element(By.XPATH,"//*[contains(@aria-label,'xinzhang6')]").click()
     sleep(10)
     description_1 = description
-    for i in range(9,10):
+    for i in range(1,11):
         #跑一次改一次备注，方便你我
         #C和P的数值不一样，注意修改！
         #ssl-BC6
@@ -98,10 +98,10 @@ def C_operate(name,Primary,description):
     
         #修改Name of the test
         input_element.send_keys(name)
-        #点击Select a region
-        wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[7]/select").click()
+
+        wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[8]/select").click()
         sleep(1)
-        locator_1 = (By.XPATH,'/html/body/div/div/div/div/div/div[1]/div/form/div[7]/select/option[1]')
+        locator_1 = (By.XPATH,'/html/body/div/div/div/div/div/div[1]/div/form/div[8]/select/option[1]')
         test_box_style = WebDriverWait(wd, 100).until(EC.element_to_be_clickable(locator_1))#error
         test_box_style.click()
 
@@ -112,8 +112,8 @@ def C_operate(name,Primary,description):
         input_element.send_keys(Primary)
 
         wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[12]/div[1]/div[2]/input").click()
-        #清空description
-        input_element=wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[8]/textarea")
+
+        input_element=wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[9]/textarea")
         input_element.clear()
     
         #修改Enter a description
@@ -128,33 +128,30 @@ def C_operate(name,Primary,description):
         input_element.clear()
         input_element.send_keys("1024")
 
-        #点击run
+
         wd.find_element(By.XPATH,"/html/body/div/div/div/div/div/div[1]/div/form/div[12]/div[5]/button").click()
 
         sleep(5)
-        
-        #点击history
+    
         wd.find_element(By.XPATH,"/html/body/div/div/header/nav/div/div/ul/li[3]/a").click()
 
-#更改日期，拼接cache名字上的时间
-#当天
+#更改日期
+#获取当前的UTC时间        
 #current_date = datetime.datetime.utcnow().strftime("%m%d")
-#前一天        
-#current_date = (datetime.datetime.utcnow() - datetime.timedelta(days=1)).strftime("%m%d")
-#前两天        
-current_date = (datetime.datetime.utcnow() - datetime.timedelta(days=2)).strftime("%m%d")
 # current_date = '1126'
+#前一天        
+current_date = (datetime.datetime.utcnow() - datetime.timedelta(days=1)).strftime("%m%d")
 
 #创建P1-P5
 for j in range(1,6):
     #查找P
-    FindName = "P"+str(j)+"-CUSE"
-    FindNOPrimary = "P"+str(j)+"-CUSE-{}.redis.cache.windows.net:6379".format(current_date)
-    #'P1-CUSE-1110.redis.cache.windows.net:6379'
-    FindNODescription = "P"+str(j)+"-CUSE-{}.redis.cache.windows.net:6379".format(current_date)
+    FindName = "P"+str(j)+"-EUS2E"
+    FindNOPrimary = "P"+str(j)+"-EUS2E-{}.redis.cache.windows.net:6379".format(current_date)
+    #'P1-EUS2E-1110.redis.cache.windows.net:6379'
+    FindNODescription = "P"+str(j)+"-EUS2E-{}.redis.cache.windows.net:6379".format(current_date)
     
-    # FindSSLPrimary = "P"+str(j)+"-CUSE-{}.redis.cache.windows.net:6380".format(current_date)
-    # FindSSLDescription = "P"+str(j)+"-CUSE-{}.redis.cache.windows.net:6380".format(current_date)
+    # FindSSLPrimary = "P"+str(j)+"-EUS2E-{}.redis.cache.windows.net:6380".format(current_date)
+    # FindSSLDescription = "P"+str(j)+"-EUS2E-{}.redis.cache.windows.net:6380".format(current_date)
     
     UseName = ""
     UseNOPrimary = ""
@@ -162,14 +159,14 @@ for j in range(1,6):
     # UseSSLPrimary = ""
     # UseSSLDescription = ""
     
-    #查找Name //"D:\Tests\Benchmark\Attributes\Name - P.txt"
-    with open(r"D:\Tests\Benchmark\Attributes\Name - P.txt", "r") as file:
+    #查找Name //"D:\Tests\Benchmark\AttributesEus2e\Name - P.txt"
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Name - P.txt", "r") as file:
         for line in file:
             if FindName in line:
                 UseName = line.strip()  # 去除行末尾的换行符和空格
                 break
-    #查找no-ssl-Primary//"D:\Tests\Benchmark\2Attributes\Primary String - P.txt"
-    with open(r"D:\Tests\Benchmark\Attributes\Primary String - P.txt", "r") as file:
+    #查找no-ssl-Primary//"D:\Tests\Benchmark\2AttributesEus2e\Primary String - P.txt"
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Primary String - P.txt", "r") as file:
         for line in file:
             if FindNOPrimary in line:
                 UseNOPrimary = line.strip()  # 去除行末尾的换行符和空格
@@ -182,7 +179,7 @@ for j in range(1,6):
     #             break
             
     # 查找no-ssl-Description  
-    with open(r"D:\Tests\Benchmark\Attributes\Description - P.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Description - P.txt", "r") as file:
         for line in file:
             if FindNODescription in line:
                 UseNODescription = line.strip()  # 去除行末尾的换行符和空格
@@ -199,14 +196,14 @@ for j in range(1,6):
     # P_operate(UseName,UseSSLPrimary,UseSSLDescription)
 
 #创建S-C0
-for j in range(2,3):
+for j in range(0,7):
     #查找SC
-    FindName = "C"+str(j)+"-CUSE-Standard"
-    FindNOPrimary = "C"+str(j)+"-CUSE-Standard-{}.redis.cache.windows.net:6379".format(current_date)
-    FindNODescription = "C"+str(j)+"-CUSE-Standard-{}.redis.cache.windows.net:6379".format(current_date)
+    FindName = "C"+str(j)+"-EUS2E-Standard"
+    FindNOPrimary = "C"+str(j)+"-EUS2E-Standard-{}.redis.cache.windows.net:6379".format(current_date)
+    FindNODescription = "C"+str(j)+"-EUS2E-Standard-{}.redis.cache.windows.net:6379".format(current_date)
     
-    # FindSSLPrimary = "C"+str(j)+"-CUSE-Standard-{}.redis.cache.windows.net:6380".format(current_date)
-    # FindSSLDescription = "C"+str(j)+"-CUSE-Standard-{}.redis.cache.windows.net:6380".format(current_date)
+    # FindSSLPrimary = "C"+str(j)+"-EUS2E-Standard-{}.redis.cache.windows.net:6380".format(current_date)
+    # FindSSLDescription = "C"+str(j)+"-EUS2E-Standard-{}.redis.cache.windows.net:6380".format(current_date)
     
     UseName = ""
     UseNOPrimary = ""
@@ -215,13 +212,13 @@ for j in range(2,3):
     # UseSSLDescription = ""
     
     #查找Name
-    with open(r"D:\Tests\Benchmark\Attributes\Name - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Name - C.txt", "r") as file:
         for line in file:
             if FindName in line:
                 UseName = line.strip()  # 去除行末尾的换行符和空格
                 break
     #查找no-ssl-Primary
-    with open(r"D:\Tests\Benchmark\Attributes\Primary String - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Primary String - C.txt", "r") as file:
         for line in file:
             if FindNOPrimary in line:
                 UseNOPrimary = line.strip()  # 去除行末尾的换行符和空格
@@ -234,7 +231,7 @@ for j in range(2,3):
     #             break
             
     # 查找no-ssl-Description  
-    with open(r"D:\Tests\Benchmark\Attributes\Description - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Description - C.txt", "r") as file:
         for line in file:
             if FindNODescription in line:
                 UseNODescription = line.strip()  # 去除行末尾的换行符和空格
@@ -245,21 +242,20 @@ for j in range(2,3):
     #         if FindSSLDescription in line:
     #             UseSSLDescription = line.strip()  # 去除行末尾的换行符和空格
     #             break
-     
-    #不执行SC
+            
     C_operate(UseName,UseNOPrimary,UseNODescription)
     # C_operate(UseName,UseSSLPrimary,UseSSLDescription)
     
 
 #创建B-C0
-for j in range(1,7):
+for j in range(0,7):
     #查找BC
-    FindName = "C"+str(j)+"-CUSE-Basic"
-    FindNOPrimary = "C"+str(j)+"-CUSE-Basic-{}.redis.cache.windows.net:6379".format(current_date)
-    FindNODescription = "C"+str(j)+"-CUSE-Basic-{}.redis.cache.windows.net:6379".format(current_date)
+    FindName = "C"+str(j)+"-EUS2E-Basic"
+    FindNOPrimary = "C"+str(j)+"-EUS2E-Basic-{}.redis.cache.windows.net:6379".format(current_date)
+    FindNODescription = "C"+str(j)+"-EUS2E-Basic-{}.redis.cache.windows.net:6379".format(current_date)
     
-    FindSSLPrimary = "C"+str(j)+"-CUSE-Basic-{}.redis.cache.windows.net:6380".format(current_date)
-    FindSSLDescription = "C"+str(j)+"-CUSE-Basic-{}.redis.cache.windows.net:6380".format(current_date)
+    FindSSLPrimary = "C"+str(j)+"-EUS2E-Basic-{}.redis.cache.windows.net:6380".format(current_date)
+    FindSSLDescription = "C"+str(j)+"-EUS2E-Basic-{}.redis.cache.windows.net:6380".format(current_date)
     
     UseName = ""
     UseNOPrimary = ""
@@ -268,13 +264,13 @@ for j in range(1,7):
     UseSSLDescription = ""
     
     #查找Name
-    with open(r"D:\Tests\Benchmark\Attributes\Name - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Name - C.txt", "r") as file:
         for line in file:
             if FindName in line:
                 UseName = line.strip()  # 去除行末尾的换行符和空格
                 break
     #查找no-ssl-Primary
-    with open(r"D:\Tests\Benchmark\Attributes\Primary String - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Primary String - C.txt", "r") as file:
         for line in file:
             if FindNOPrimary in line:
                 UseNOPrimary = line.strip()  # 去除行末尾的换行符和空格
@@ -287,7 +283,7 @@ for j in range(1,7):
     #             break
             
     # 查找no-ssl-Description  
-    with open(r"D:\Tests\Benchmark\Attributes\Description - C.txt", "r") as file:
+    with open(r"D:\Tests\Benchmark\AttributesEus2e\Description - C.txt", "r") as file:
         for line in file:
             if FindNODescription in line:
                 UseNODescription = line.strip()  # 去除行末尾的换行符和空格
@@ -299,7 +295,7 @@ for j in range(1,7):
     #             UseSSLDescription = line.strip()  # 去除行末尾的换行符和空格
     #             break
             
-    #C_operate(UseName,UseNOPrimary,UseNODescription)
+    C_operate(UseName,UseNOPrimary,UseNODescription)
     # C_operate(UseName,UseSSLPrimary,UseSSLDescription)
     
 
